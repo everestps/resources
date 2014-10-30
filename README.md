@@ -24,6 +24,7 @@ You should refer to [github help](http://help.github.com)
 ## IRC
 There is a #summitcs channel on freenode where Alex and Mr Hesby hang out to answer questions
 Here is the link to [webchat](https://kiwiirc.com/client/irc.freenode.com/?nick=Summit|?#summitcs)
+If you have finished registering with freenode you can get a custom url `https://kiwiirc.com/client/irc.freenode.com/?nick=Summit|?#summitcs` and replace Summit| with your nick and then check the "I have a password" box and enter the password you used to register with freenode
 
 ## Blogs
 Here is a list of great blogs for finding resources
