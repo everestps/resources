@@ -7,6 +7,7 @@ A curated list of Resources for the Computer Science Expidition. Everyone can co
 - [GitHub](#github)
 - [IRC](#irc)
 - [Blogs](#blogs)
+- [Useful Sites](#useful sites)
 
 ##Contributing
 To add a new section make a h2 with the sections name like so
@@ -29,3 +30,6 @@ If you have finished registering with freenode you can get a custom url `https:/
 ## Blogs
 Here is a list of great blogs for finding resources
 - [davidwalsh.name](http://davidwalsh.name)
+
+## Useful Sites
+- [stackoverflow](https://stackoverflow.com/)
