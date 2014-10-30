@@ -5,6 +5,7 @@ A curated list of Resources for the Computer Science Expidition. Everyone can co
 
 - [Contributing](#contributing)
 - [GitHub](#github)
+- [IRC](#irc)
 
 ##Contributing
 To add a new section make a h2 with the sections name like so
@@ -18,3 +19,7 @@ and then link it at the top of the file in the list like so
 
 ## Github
 You should refer to [github help](http://help.github.com)
+
+## IRC
+There is a #summitcs channel on freenode where Alex and Mr Hesby hang out to answer questions
+Here is the link to [webchat](https://kiwiirc.com/client/irc.freenode.com/?nick=Summit|?#summitcs)
