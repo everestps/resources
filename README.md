@@ -29,7 +29,8 @@ If you have finished registering with freenode you can get a custom url `https:/
 
 ## Blogs
 Here is a list of great blogs for finding resources.
-- [davidwalsh.name](http://davidwalsh.name)
+- [davidwalsh.name](http://davidwalsh.name) David walsh is a developer at mozilla who creates amazing demos of things.
 
 ## Useful Sites
-- [stackoverflow](https://stackoverflow.com/)
+- [stackoverflow](https://stackoverflow.com/) stack overflow is a place were you can ask questions or find questions that you want answered.
+- [paletton](http://paletton.com/) paletton is a great place for finding a good looking color pallete.
